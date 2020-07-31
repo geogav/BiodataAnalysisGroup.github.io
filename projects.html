@@ -1,0 +1,32 @@
+---
+title: projects
+layout: default
+bodyClass: page-projects-list
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Projects</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    {% for testimonial in site.projects %}
+    <div class="col-12 col-md-6 mb-2 ">
+      <div class="projects projects-summary">
+        <div class="projects-meta">
+          <h2 class="projects-title">{{ testimonial.title }}</h2>
+          <p class="projects-name">{{ testimonial.name }}</p>
+          <p class="projects-jobtitle">{{ testimonial.jobtitle }}</p>
+        </div>
+        <div class="projects-content">{{ testimonial.content }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

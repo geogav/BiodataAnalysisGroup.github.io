@@ -1,0 +1,37 @@
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'Biodata Analysis Group'
+
+collections:
+  activities:
+    output: true
+    permalink: /activities/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+defaults:
+  - scope:
+      type: activities
+    values:
+      layout: activity
+      bodyClass: page-activities-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+google_analytics_id: null
+
+plugins:
+  - jekyll-environment-variables
