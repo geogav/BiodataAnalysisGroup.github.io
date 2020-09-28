@@ -21,7 +21,7 @@ bodyClass: page-team-list
 <div class="container pb-6">
   <div class="row">
     {% for team in site.team %}
-    <div class="col-12 col-md-6 mb-1">
+    <div class="col-12 col-md-12">
       <div class="team team-summary">
         {% if team.image %}
         <div class="team-image">
@@ -35,12 +35,33 @@ bodyClass: page-team-list
         <div class="team-meta">
           <h2 class="team-name">{{ team.title }}</h2>
           <p class="team-description">{{ team.jobtitle }}</p>
+          <!-- {% if team.email %}
+          <a target="blank" href="mailto:{{ team.email }}">
+            <img src="../images/social/email.svg" title="email">
+          </a> 
+          {% endif %}
+          &nbsp;&nbsp; -->
           {% if team.linkedinurl %}
-          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
+          <a target="blank" href="{{ team.linkedinurl }}">
+            <img src="../images/social/linkedin-in-brands.svg" title="linkedin">
+          </a> 
+          {% endif %}
+          &nbsp;&nbsp;
+          {% if team.githuburl %}
+          <a target="blank" href="{{ team.githuburl }}">
+            <img src="../images/social/github.svg" title="github" alt="github">
+          </a> 
+          {% endif %}
+          &nbsp;&nbsp;
+          {% if team.twitterurl %}
+          <a target="blank" href="{{ team.twitterurl }}">
+            <img src="../images/social/twitter.svg" title="twitter" alt="twitter">
+          </a> 
           {% endif %}
         </div>
-        <div class="team-content">{{ team.content }}</div>
+        <div class="team-content" style="text-align:justify;">{{ team.content }}</div>
       </div>
+      <br><br>
     </div>
     {% endfor %}
   </div>

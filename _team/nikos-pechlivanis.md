@@ -1,7 +1,7 @@
 ---
-title: 'Peter Van Eijk'
+title: 'Nikos Pechlivanis'
 image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
-jobtitle: 'Director'
+jobtitle: 'update'
 email: 'peter@test.com'
 linkedinurl: 'https://www.linkedin.com/'
 ---
