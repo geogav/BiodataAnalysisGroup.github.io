@@ -1,58 +1,26 @@
 ---
-title: 'Business Advisory'
+title: 'Multi-omics'
 image: '/activities/default.png'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+The Next Generation Sequencing (NGS) produce big biological data including studies of whole genomes (whole-genome sequencing), smaller regions of the genome (exome sequencing), of the transcriptome (RNA-seq), the methylome (Bisulfite-seq) and protein-DNA binding sites (ChIPseq). 
+The raw NGS data are consequently analyzed by established and widely accepted bioinformatics tools (bwa, TrimGalore, HISAT2, MACS2, R). The process of analyzing omics data usually leads to a high dimensional matrix, with the different cases listed as columns and the locations on the genome in which the examined event happened (e.g. mutation, gene expression etc.) as rows.
+The integration of several types of data that originate from the same physical source (e.g.patient) but focus on different mechanisms (gene expression, DNA Methylation, histone modifications etc.) is an area of interest.
 
-## Inter pectore totidem
+## Analysis of raw NGS data (.fastq)
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+- RNAseq (_HISAT2_)
+- WES (_GATK_)
+- ChIP-seq (_MACS2_)
 
-## Novis hunc qua erat caecisque
+## Downstream analysis
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+- differential analysis (_DEseq2_, _limma_)
+- enrichment analysis (_KEGG_, _GO_)
+- transciption factor binding site analysis (_PWA_)
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+## Data Integration
+We developed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs). The main concept of the proposed methodology is to create a single matrix with all different events (e.g. DNA methylation, expression, mutation) combined with their genome coordinates and the respective quantitative metrics after application of the appropriate scaling. The events are divided into their related TADs according to the chromosomal location and each TAD is evaluated for statistically significant differences between the groups of interest (e.g. normal cells vs cancer cells). Finally, several visualization approaches are available, including the mapping of the events on the chromosomal location of the TAD as well as the distribution of the counts within a given TAD across the different study groups.
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+https://github.com/nikopech/InterTADs
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
