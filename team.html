@@ -36,23 +36,27 @@ bodyClass: page-team-list
           <h2 class="team-name">{{ team.title }}</h2>
           <p class="team-description">{{ team.jobtitle }}</p>
           <!-- {% if team.email %}
-          <a target="blank" href="mailto:{{ team.email }}">
+          <a href="mailto:{{ team.email }}">
             <img src="../images/social/email.svg" title="email">
           </a> 
           {% endif %}
           &nbsp;&nbsp; -->
           {% if team.linkedinurl %}
           <a target="blank" href="{{ team.linkedinurl }}">
-            <img src="../images/social/linkedin-in-brands.svg" title="linkedin">
+            <img src="../images/social/linkedin.svg" title="linkedin">
           </a> 
           {% endif %}
+          
           &nbsp;&nbsp;
+
           {% if team.githuburl %}
           <a target="blank" href="{{ team.githuburl }}">
             <img src="../images/social/github.svg" title="github" alt="github">
           </a> 
           {% endif %}
+
           &nbsp;&nbsp;
+
           {% if team.twitterurl %}
           <a target="blank" href="{{ team.twitterurl }}">
             <img src="../images/social/twitter.svg" title="twitter" alt="twitter">
