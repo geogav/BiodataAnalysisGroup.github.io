@@ -36,3 +36,20 @@ google_analytics_id: UA-17296390-13
 plugins:
   - jekyll-environment-variables
   - jekyll-scholar
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: none
+  order: ascending
+  #group_by: year
+
+  source: _bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  query: "@*"
