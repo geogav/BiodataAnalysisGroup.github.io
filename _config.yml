@@ -35,3 +35,4 @@ google_analytics_id: UA-17296390-13
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-scholar
