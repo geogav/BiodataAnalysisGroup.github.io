@@ -3,45 +3,36 @@ title: 'Training'
 image: '/activities/default.png'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+## Introduction to Machine Learning: Opportunities for advancing omics data analysis
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+**Material**
+- [website](https://fpsom.github.io/IntroToMachineLearning/)
+- [github](https://github.com/fpsom/IntroToMachineLearning)
 
-## Geniti facinus praeruptam atris ab manus in
+Machine learning has emerged as a discipline that enables computers to assist humans in making sense of large and complex data sets. With the drop-in cost of sequencing technologies, large amounts of omics data are being generated and made accessible to researchers. Analysing these complex high-volume data is not trivial and the use of classical tools cannot explore their full potential. Machine learning can thus be very useful in mining large omics datasets to uncover new insights that can advance the field of medicine and improve health care.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+The aim of this tutorial is to introduce participants to the Machine learning (ML) taxonomy and common machine learning algorithms. The tutorial will cover the methods being used to analyse different omics data sets by providing a practical context through the use of basic but widely used R and Python libraries. The tutorial will comprise a number of hands on exercises and challenges, where the participants will acquire a first understanding of the standard ML processes as well as the practical skills in applying them on familiar problems and publicly available real-world data sets.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## ELIXIR / CODATA-RDA Research Data Science Advanced Workshop on Bioinformatics
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+**Material**
+  - [website 2019](https://codata-rda-advanced-bioinformatics-2019.readthedocs.io/en/latest/)
+  - [github 2019](https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2019)
+  - [website 2018](https://codata-rda-advanced-bioinformatics-2018.readthedocs.io/en/latest/)
+  - [github 2018](https://github.com/fpsom/CODATA-RDA-Advanced-Bioinformatics-2018)
 
-## Vidit si probetne vertitur
+As part of the [CODATA-RDA Research Data Science Summer School](http://www.codata.org/datatrieste2018) in Trieste (6-17 Aug 2018 and 5-16 Aug 2019), ELIXIR Training has contributed in the organization of the flanking Advanced Bioinformatics workshop (20-24 Aug 2018 and 19-23 Aug 2019) with a particular focus on Machine Learning applications, as part of the ELIXIR Implementation Study on Learning Paths.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+This advanced bioinformatics course provided an overview of the current status of different NGS workflows (variant calling, RNA-Seq, ChIP-Seq, Metagenomics etc), and combined them with the appropriate Machine Learning and Data Mining approaches. After providing a strong foundation of the underlying theory and concepts, the course relied heavily on hand-on exercises and tutorials in order for the participants to directly apply and practice on methods and techniques presented throughout each day.
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+The course was led by me (INAB/CERTH, ELIXIR Greece), with [Amel Ghouila](https://github.com/amelgh) (Institut Pasteur de Tunis / H3ABionet), [Gabriele Schweikert](http://homepages.inf.ed.ac.uk/gschweik/) (Cyber Valley Initiative, University of Tübingen, DE / Computational Biology, University of Dundee, UK) and [Phelelani Mpangase](https://github.com/phelelani) (Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand, Johannesburg, South Africa) as co-instructors of the course. Moreover, the daily training activities were supported by three helpers; Maria Tsagiopoulou (INAB / CERTH), Ola Karrar (University of Khartoum) and a past learner to the CODATA-RDA Research Data Science Summer School, and David Helekal (University of Dundee).
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+## Workshop on Reproducible analysis and Research Transparency
+
+**Material**
+  - [website](https://reproducible-analysis-workshop.readthedocs.io/en/latest/)
+  - [github](https://github.com/fpsom/reproducible-analysis-workshop)
+
+This workshop was part of the [Open Science Tools, Data & Technologies for Efficient Ecological & Evolutionary Research](https://nioo.knaw.nl/en/open-science-tools) Symposium, organized by NIOO-KNAW and DANS-KNAW on 7 & 8 December 2017 at the [Amsterdam Science Park](https://www.amsterdamsciencepark.nl/about-amsterdam-science-park/profile/).
+
+This workshop provided an overview of the to date status in reproducible analysis in order to provide transparency in research. The workshop covered methodological topics (such as the use of the Open Science Framework and reporting guidelines) as well as software tools (such as `Git`, `Docker`, `RMarkdown` / `knitr` and `Jupyter`). Going beyond simple listing and presentations, the workshop focused on hands-on skill building, with exercises and tutorials covering most of the software aspects.
