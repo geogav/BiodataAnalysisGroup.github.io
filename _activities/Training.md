@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Training'
 image: '/activities/default.png'
 ---
 
