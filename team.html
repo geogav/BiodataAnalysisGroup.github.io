@@ -45,21 +45,32 @@ bodyClass: page-team-list
           <a target="blank" href="{{ team.linkedinurl }}">
             <img src="../images/social/linkedin.svg" title="linkedin">
           </a> 
+          &nbsp;&nbsp;
           {% endif %}
           
-          &nbsp;&nbsp;
+          
 
           {% if team.githuburl %}
           <a target="blank" href="{{ team.githuburl }}">
             <img src="../images/social/github.svg" title="github" alt="github">
           </a> 
+          &nbsp;&nbsp;
           {% endif %}
 
-          &nbsp;&nbsp;
+          
 
           {% if team.twitterurl %}
           <a target="blank" href="{{ team.twitterurl }}">
             <img src="../images/social/twitter.svg" title="twitter" alt="twitter">
+          </a> 
+          &nbsp;&nbsp;
+          {% endif %}
+
+          
+
+          {% if team.unsplashurl %}
+          <a target="blank" href="{{ team.unsplashurl }}">
+            <img src="../images/social/unsplash.svg" title="unsplash" alt="unsplash">
           </a> 
           {% endif %}
         </div>
