@@ -51,13 +51,20 @@
       <div class="col-12 col-md-8">
         <div class="project project-single">
           <h1 class="title">Multi-omics</h1>
-          <div class="content"><p>The Next Generation Sequencing (NGS) produce big biological data including studies of whole genomes (whole-genome sequencing), smaller regions of the genome (exome sequencing), of the transcriptome (RNA-seq), the methylome (Bisulfite-seq) and protein-DNA binding sites (ChIPseq). 
-The raw NGS data are consequently analyzed by established and widely accepted bioinformatics tools (bwa, TrimGalore, HISAT2, MACS2, R). The process of analyzing omics data usually leads to a high dimensional matrix, with the different cases listed as columns and the locations on the genome in which the examined event happened (e.g. mutation, gene expression etc.) as rows.
-The integration of several types of data that originate from the same physical source (e.g.patient) but focus on different mechanisms (gene expression, DNA Methylation, histone modifications etc.) is an area of interest.</p>
+          <div class="content"><p>The Next Generation Sequencing (NGS) produce big biological data. The process of analyzing omics data usually leads to a high dimensional matrix, with the different cases listed as columns and the locations on the genome in which the examined event happened (e.g. mutation, gene expression etc.) as rows.</p>
+
+<p>The particular omics computational approaches currently in progress fall in the biomedical domain include:</p>
+
+<ol>
+  <li>High throughput immunogenetic analysis in health and disease</li>
+  <li>Integrated omics analysis of hematologic malignancies: DNA methylome and Transcriptome Profiling in patients with hematologic malignancies treated with chemotherapy versus novel agents; Whole exome sequencing of pre-malignant conditions</li>
+  <li>Targeted NGS analysis for improved risk stratification in cancer: novel recurrent gene mutations in hematologic malignancies</li>
+</ol>
 
 <h2 id="analysis-of-raw-ngs-data-fastq">Analysis of raw NGS data (.fastq)</h2>
 
 <ul>
+  <li>Immuno-sequencing (<em>IMGT</em>)</li>
   <li>RNAseq (<em>HISAT2</em>)</li>
   <li>WES (<em>GATK</em>)</li>
   <li>ChIP-seq (<em>MACS2</em>)</li>
@@ -66,15 +73,15 @@ The integration of several types of data that originate from the same physical s
 <h2 id="downstream-analysis">Downstream analysis</h2>
 
 <ul>
+  <li>Immunogetics analysis (<em>TRIP - T cell receptor/immunoglobulin profiler</em>)</li>
   <li>differential analysis (<em>DEseq2</em>, <em>limma</em>)</li>
   <li>enrichment analysis (<em>KEGG</em>, <em>GO</em>)</li>
   <li>transciption factor binding site analysis (<em>PWA</em>)</li>
 </ul>
 
 <h2 id="data-integration">Data Integration</h2>
-<p>We developed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs). The main concept of the proposed methodology is to create a single matrix with all different events (e.g. DNA methylation, expression, mutation) combined with their genome coordinates and the respective quantitative metrics after application of the appropriate scaling. The events are divided into their related TADs according to the chromosomal location and each TAD is evaluated for statistically significant differences between the groups of interest (e.g. normal cells vs cancer cells). Finally, several visualization approaches are available, including the mapping of the events on the chromosomal location of the TAD as well as the distribution of the counts within a given TAD across the different study groups.</p>
-
-<p>https://github.com/nikopech/InterTADs</p>
+<p>We developed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
+<a href="https://github.com/nikopech/InterTADs">Check it out on our github</a></p>
 
 </div>
         </div>
