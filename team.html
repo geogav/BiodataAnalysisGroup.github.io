@@ -34,20 +34,20 @@ bodyClass: page-team-list
         <div class="team-meta">
           <h2 class="team-name">{{ team.title }}</h2>
           <p class="team-description">{{ team.jobtitle }}</p>
-          <!-- {% if team.email %}
+          <!--
+          {% if team.email %}
           <a href="mailto:{{ team.email }}">
             <img src="../images/social/email.svg" title="email">
           </a>
+          &nbsp;&nbsp;
           {% endif %}
-          &nbsp;&nbsp; -->
+          -->
           {% if team.linkedinurl %}
           <a target="blank" href="{{ team.linkedinurl }}">
             <img src="../images/social/linkedin.svg" title="linkedin">
           </a>
           &nbsp;&nbsp;
           {% endif %}
-
-
 
           {% if team.githuburl %}
           <a target="blank" href="{{ team.githuburl }}">
@@ -56,16 +56,12 @@ bodyClass: page-team-list
           &nbsp;&nbsp;
           {% endif %}
 
-
-
           {% if team.twitterurl %}
           <a target="blank" href="{{ team.twitterurl }}">
             <img src="../images/social/twitter.svg" title="twitter" alt="twitter">
           </a>
           &nbsp;&nbsp;
           {% endif %}
-
-
 
           {% if team.unsplashurl %}
           <a target="blank" href="{{ team.unsplashurl }}">

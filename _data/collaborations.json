@@ -1,22 +1,27 @@
 [
   {
     "title": "ELIXIR",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/ELIXIR.png"
+    "description": "Active in the European Infrastructure on Life Sciences.",
+    "image": "images/collaborations/ELIXIR.png"
   },
   {
     "title": "RDA",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/RDA_Logo.png"
+    "description": "Leading a number of Interest and Working groups",
+    "image": "images/collaborations/RDA_Logo.png"
   },
   {
     "title": "The Carpentries",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/RDA_Logo.png"
+    "description": "Being part of the global training community",
+    "image": "images/collaborations/TheCarpentries-Logo.png"
   },
   {
-    "title": "EOSC",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/RDA_Logo.png"
+    "title": "EOSC Skills and Training Working Group",
+    "description": "Helping identify the digital skills and competencies for EOSC.",
+    "image": "images/collaborations/eosc_logos_skillstraining.png"
+  },
+  {
+    "title": "GOBLET",
+    "description": "Member of the Global Trainers community for Life Sciences",
+    "image": "images/collaborations/Goblet_logo.jpg"
   }
 ]
