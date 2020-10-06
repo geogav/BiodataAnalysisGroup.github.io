@@ -1,0 +1,22 @@
+[
+  {
+    "title": "ELIXIR",
+    "description": "New clients recieve an obligation free consultation.",
+    "image": "images/features/ELIXIR.png"
+  },
+  {
+    "title": "RDA",
+    "description": "All members of our team are certified accountants.",
+    "image": "images/features/RDA_Logo.png"
+  },
+  {
+    "title": "The Carpentries",
+    "description": "All members of our team are certified accountants.",
+    "image": "images/features/RDA_Logo.png"
+  },
+  {
+    "title": "EOSC",
+    "description": "All members of our team are certified accountants.",
+    "image": "images/features/RDA_Logo.png"
+  }
+]

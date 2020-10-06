@@ -10,8 +10,7 @@ bodyClass: page-team-list
       <div class="col-12">
         <h1>Meet The Team</h1>
         <p>
-          Our team of qualified accountants and financial consultants can help
-          your business at any stage of it's growth.
+          The team is active in Bioinformatics research, focusing on the design of new algorithms and pipelines.
         </p>
       </div>
     </div>
@@ -38,40 +37,40 @@ bodyClass: page-team-list
           <!-- {% if team.email %}
           <a href="mailto:{{ team.email }}">
             <img src="../images/social/email.svg" title="email">
-          </a> 
+          </a>
           {% endif %}
           &nbsp;&nbsp; -->
           {% if team.linkedinurl %}
           <a target="blank" href="{{ team.linkedinurl }}">
             <img src="../images/social/linkedin.svg" title="linkedin">
-          </a> 
+          </a>
           &nbsp;&nbsp;
           {% endif %}
-          
-          
+
+
 
           {% if team.githuburl %}
           <a target="blank" href="{{ team.githuburl }}">
             <img src="../images/social/github.svg" title="github" alt="github">
-          </a> 
+          </a>
           &nbsp;&nbsp;
           {% endif %}
 
-          
+
 
           {% if team.twitterurl %}
           <a target="blank" href="{{ team.twitterurl }}">
             <img src="../images/social/twitter.svg" title="twitter" alt="twitter">
-          </a> 
+          </a>
           &nbsp;&nbsp;
           {% endif %}
 
-          
+
 
           {% if team.unsplashurl %}
           <a target="blank" href="{{ team.unsplashurl }}">
             <img src="../images/social/unsplash.svg" title="unsplash" alt="unsplash">
-          </a> 
+          </a>
           {% endif %}
         </div>
         <div class="team-content" style="text-align:justify;">{{ team.content }}</div>
