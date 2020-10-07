@@ -1,13 +1,9 @@
 ---
-layout: home
 title: Our research activities
 description: Listing our projects here
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /activities/
 ---
-
-{: .alert .alert-info}
-General intro stuff
 
 ## Machine Learning
 

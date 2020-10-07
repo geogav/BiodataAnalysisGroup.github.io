@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Our code of conduct
 description: Listing our projects here
 background: /assets/img/chuttersnap-146799-unsplash.jpg
