@@ -6,8 +6,7 @@ permalink: /projects/
 ---
 
 ## GenOptics
-
-<img src="/assets/img/projects/GenOptics_logo.png" alt="GenOptics" style="width:100px" align="right";/>
+<img src="/assets/img/projects/GenOptics_logo.png" alt="GenOptics" style="width:100px";/>
 [**GenOptics**](https://genoptics.github.io/) (_Large Scale bio-data Visual analytics platform_)
 - **Duration**: 2020 - 2023
 - **Funder**: [General Secretariat for Research and Technology (GSRT)](http://www.gsrt.gr/)
@@ -15,23 +14,14 @@ permalink: /projects/
 and discovery of new knowledge through targeted studies, there is no widely used platform that provides this functionality to the scientific community. GenOptics will allow visual analytics of multi-omics data through a modular system that will integrate multiple interoperable analysis tools into a software platform, leveraging established international technologies and software suites such as Docker and R/Bioconductor.
 
 ## Gallantries
-<img src="https://galaxy-carpentries.github.io/gallantries/assets/images/gallantries-logo-with-word-inverted-large.svg" alt="Gallantries" style="width:100px" align="right";/>
+<img src="https://galaxy-carpentries.github.io/gallantries/assets/images/gallantries-logo-with-word-inverted-large.svg" alt="Gallantries" style="width:100px";/>
 [**Gallantries**](https://galaxy-carpentries.github.io/gallantries/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: Rapid development of DNA sequencing technologies has made it possible for biomedical disciplines to rival the physical sciences in data production capability. Today’s sequencing instruments rival those fields in terms of data throughput. Yet biology is different from these disciplines in one fundamental aspect—the lack of computational and data analysis training in standard biomedical curricula. Given their cumulative experience and expertise in training for Life Sciences, the next step for these communities is to work together towards a full curriculum on the computational analysis of HTS data, starting from raw data and leading up to the production of publication ready visualizations of the analysis results. More importantly, these training activities should be scalable and accessible to anyone around the globe, particularly for people unable to attend face-to-face workshops due to social, technical or cultural limitations, leveraging new technologies to overcome this obstacle. Gallantries aims to bridge the different training communities (EMBL, The Carpentries, Galaxy, ELIXIR, GOBLET) and fill the remaining gap in bioinformatics training.
 
 ## ELIXIR Commissioned Services
-
-<img src="/assets/img/projects/ELIXIR.png" alt="GenOptics" style="width:100px" align="right";/>
+<img src="/assets/img/projects/ELIXIR.png" alt="GenOptics" style="width:100px";/>
 We are co-leading two [ELIXIR](https://elixir-europe.org/) Tasks as commissioned services:
 - Tools Platform Task 4 "_Software Best Practices_"
 - Training Platform Task 2 "_Gap analysis, training materials development and training delivery_"
-
-Additionally, we are co-leading three [ELIXIR Focus Groups](https://elixir-europe.org/focus-groups):
-- [Machine Learning (AI)](https://elixir-europe.org/focus-groups/machine-learning)
-  The ELIXIR Machine Learning Focus Group was initiated in October 2019, in order to capture the emerging need in Machine Learning expertise across the network.
-- [Research Data Alliance (RDA) Activities](https://elixir-europe.org/focus-groups/rda-activities)
-  This Focus Groups acts as the liaison between ELIXIR and RDA.
-- ELIXIR FAIR Training
-  This Focus Group aims to provide guidelines for making training material FAIR, as well as producing material on the FAIR principles.
