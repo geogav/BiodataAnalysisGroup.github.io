@@ -1,21 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" href="{{site.baseurl}}/images/groupLogo/helix.png">
-  <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
-</head>
-<body class='page {{page.bodyClass}}'>
-  {% include main-menu-mobile.html %}
-  <div id="wrapper" class="wrapper">
-    {% include header.html headerClass='header-extra' %}
-    {{content}}
+---
+layout: base
+description: Default template for pages and posts, with contained width
+---
+
+<div class="row">
+  <div class="col-md-10 col-lg-8 mx-auto">
+
+    {{ content }}
+
   </div>
-  {% include footer.html %}
-  {% include sub-footer.html %}
-  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/scripts.js"></script>
-  {% include google-analytics.html %}
-</body>
-</html>
+</div>

@@ -1,41 +1,45 @@
-baseurl: ''
-exclude: ['README.md']
-permalink: pretty
-title: 'Biodata Analysis Group'
+# SITE SETTINGS
+title: Biodata Analysis Group                        # Title in top navigation bar (navbar) and <head>
+description: The Biodata Analysis Group website # Site description in <head>
+author: Fotis Psomopoulos                    # Used for copyright statement in footer
+url: "https://biodataanalysisgroup.github.io"  # No slash at the end
+# baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
-collections:
-  activities:
-    output: true
-    permalink: /activities/:path/
-  team:
-    output: true
-    permalink: /team/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
-  publications:
-    output: true
-    permalink: /publications/:path/
+# SOCIAL PROFILES
+email: fpsom@certh.gr         # Social icon in footer
+twitter_username: fopsom       # Social icon in footer
+github_username: fpsom       # Social icon in footer
 
-defaults:
-  - scope:
-      type: activities
-    values:
-      layout: activity
-      bodyClass: page-activities-single
-  - scope:
-      path: 'images'
-    values:
-      image: true
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
+logo: /assets/img/groupLogo/helix.png # Logo in navbar, will be displayed with 30px height
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 
-sass:
-  style: compact # possible values: nested expanded compact compressed
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-scholar
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
 
 google_analytics_id: UA-17296390-13
-
-plugins:
-  - jekyll-environment-variables
-  - jekyll-scholar
 
 scholar:
   style: apa
@@ -53,3 +57,17 @@ scholar:
   join_strings:    true
 
   query: "@*"
+
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
