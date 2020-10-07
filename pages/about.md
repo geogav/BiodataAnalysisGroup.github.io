@@ -16,7 +16,7 @@ permalink: /about/
 Institute of Applied Biosciences (INAB)<br>
 Center for Research and Technology Hellas (CERTH)<br>
 6th km Charilaou-Thermis rd, Thermi<br>
-Thessaloniki 57001, Greece<
+Thessaloniki 57001, Greece
 
 ## Presence in media
 

@@ -1,7 +1,7 @@
 ---
 title: Our research activities
 description: Listing our projects here
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/groupLogo/cropped-background.jpg
 permalink: /activities/
 ---
 

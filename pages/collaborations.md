@@ -1,7 +1,7 @@
 ---
 title: Collaborations
 description: Listing our collaborations
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: https://images.unsplash.com/photo-1543946602-a0fce8117697?auto=format&w=2000
 permalink: /collaborations/
 ---
 

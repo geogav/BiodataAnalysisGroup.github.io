@@ -1,13 +1,13 @@
 ---
 title: Our research projects
 description: Listing our projects here
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: https://images.unsplash.com/photo-1572177812156-58036aae439c?auto=format&w=2000
 permalink: /projects/
 ---
 
 ## GenOptics
 
-<img src="/assets/img/projects/GenOptics_logo.png" alt="GenOptics" style="width:100px";/>
+<img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:100px;"/>
 
 [**GenOptics**](https://genoptics.github.io/) (_Large Scale bio-data Visual analytics platform_)
 - **Duration**: 2020 - 2023
@@ -17,7 +17,7 @@ and discovery of new knowledge through targeted studies, there is no widely used
 
 ## Gallantries
 
-<img src="https://galaxy-carpentries.github.io/gallantries/assets/images/gallantries-logo-with-word-inverted-large.svg" alt="Gallantries" style="width:100px";/>
+<img src="https://galaxy-carpentries.github.io/gallantries/assets/images/gallantries-logo-with-word-inverted-large.svg" alt="Gallantries" style="width:100px;"/>
 
 [**Gallantries**](https://galaxy-carpentries.github.io/gallantries/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
 - **Duration**: 2020 - 2023
