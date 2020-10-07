@@ -11,16 +11,17 @@
 - text: Publications
   href: /publications/
 - text: Research
-  href: /activities/
   menu:  # Dropdown menu (one level deep only)
+  - text: Activities
+    href: /activities/
   - text: Projects
     href: /projects/
   - text: Collaborations
     href: /collaborations/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link
-    href: https://github.com/peterdesmet/petridish/blob/master/_data/navigation.yml
+  - text: "External resources" # Title for block of menu items
+  - text: Lab GitHub
+    href: https://github.com/BiodataAnalysisGroup
     new_window: true
 - text: News
   href: /blog/
