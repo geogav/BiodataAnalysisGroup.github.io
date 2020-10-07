@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## GenOptics
 
-{% include image.html url="/assets/img/projects/GenOptics_logo.png" caption="GenOptics logo" width=100 align="right" %}
+<img src="/assets/img/projects/GenOptics_logo.png" alt="GenOptics" style="width:100px" align="right";/>
 [**GenOptics**](https://genoptics.github.io/) (_Large Scale bio-data Visual analytics platform_)
 - **Duration**: 2020 - 2023
 - **Funder**: [General Secretariat for Research and Technology (GSRT)](http://www.gsrt.gr/)
@@ -15,8 +15,7 @@ permalink: /projects/
 and discovery of new knowledge through targeted studies, there is no widely used platform that provides this functionality to the scientific community. GenOptics will allow visual analytics of multi-omics data through a modular system that will integrate multiple interoperable analysis tools into a software platform, leveraging established international technologies and software suites such as Docker and R/Bioconductor.
 
 ## Gallantries
-
-{% include image.html url="https://galaxy-carpentries.github.io/gallantries/assets/images/gallantries-logo-with-word-inverted-large.svg" caption="Gallantries logo" width=100 align="right" %}
+<img src="https://galaxy-carpentries.github.io/gallantries/assets/images/gallantries-logo-with-word-inverted-large.svg" alt="Gallantries" style="width:100px" align="right";/>
 [**Gallantries**](https://galaxy-carpentries.github.io/gallantries/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
@@ -24,7 +23,7 @@ and discovery of new knowledge through targeted studies, there is no widely used
 
 ## ELIXIR Commissioned Services
 
-{% include image.html url="/assets/img/collaborations/ELIXIR.png" caption="ELIXIR" width=100 align="right" %}
+<img src="/assets/img/projects/ELIXIR.png" alt="GenOptics" style="width:100px" align="right";/>
 We are co-leading two [ELIXIR](https://elixir-europe.org/) Tasks as commissioned services:
 - Tools Platform Task 4 "_Software Best Practices_"
 - Training Platform Task 2 "_Gap analysis, training materials development and training delivery_"

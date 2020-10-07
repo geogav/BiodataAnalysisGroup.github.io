@@ -5,11 +5,10 @@ background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /collaborations/
 ---
 
-## ELIXIR
+This is a list of our existing collaborations:
 
-Active in the European Infrastructure on Life Sciences.
-
-<img src="/assets/img/collaborations/ELIXIR.png" alt="ELIXIR" style="width:100px;"/>
+| ELIXIR | <img src="/assets/img/collaborations/ELIXIR.png" alt="ELIXIR" style="width:100px;"/>|
+|   |  Active in the European Infrastructure on Life Sciences.|
 
 
 ## Research Data Alliance

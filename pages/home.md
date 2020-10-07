@@ -2,7 +2,7 @@
 layout: home
 title: Biodata Analysis Group
 description: Doing a little bit of bioinformatics, a dash of machine learning, and a lot of Open Science
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+background: /assets/img/groupLogo/cropped-background.jpg
 permalink: /
 ---
 
@@ -14,4 +14,4 @@ We are a group of enthusiastic researchers, active in the following key fields:
 - Multi-omics data integration
 - Training for Life Sciences
 
-For more details, look at the [projects](/projects/) and [activities](/activities/) sections. 
+For more details, look at the [projects](/projects/) and [activities](/activities/) sections.
