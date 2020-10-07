@@ -14,7 +14,7 @@ Main aims:
 - [GenOptics](https://genoptics.github.io/) will allow visual analytics of multi-omics data through a modular system that will integrate multiple interoperable analysis tools into a software platform, leveraging established international technologies and software suites such as Docker and R/Bioconductor.
 
 
-![ELIXIR](/assets/img/collaborations/ELIXIR.png)
+<img src="/assets/img/collaborations/ELIXIR.png" alt="ELIXIR" style="width:100px;"/>
 
 ## ELIXIR Commissioned Services
 

@@ -5,7 +5,7 @@ background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /activities/
 ---
 
-[**Machine Learning**](##machine_learning) &nbsp; [**Multi-omics**](##multi-omics) &nbsp; [**Training**](##training)
+[**Machine Learning**](#machine-learning) &nbsp; [**Multi-omics**](#multi-omics) &nbsp; [**Training**](#training)
 
 ## Machine Learning
 
