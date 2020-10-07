@@ -7,6 +7,11 @@ permalink: /
 ---
 
 {: .alert .alert-info}
-General intro stuff
+The Biodata Analysis Group is active in Bioinformatics research, focusing on the design of new algorithms and pipelines.
 
-And more stuff here
+We are a group of enthusiastic researchers, active in the following key fields:
+- Machine Learning and Data Mining
+- Multi-omics data integration
+- Training for Life Sciences
+
+For more details, look at the [projects](/projects/) and [activities](/activities/) sections. 

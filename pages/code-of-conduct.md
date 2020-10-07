@@ -106,17 +106,7 @@ All of the [above](#everyone), plus you will be expected to:
 ## Undergraduate students
 All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
-- Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
-- Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
-- At the beginning of each semester, complete the start-of-semester form pinned to the `#undergrads` channel on Slack.
-- At the end of each semester, complete the end-of-semester form pinned to the `#undergrads` channel on Slack.
-- Undergraduates who work in the lab for a full semester may have the option to assist with an EEG project during the following semesters in the lab.
-- Undergraduates who work in the lab for a full year may have the option to assist with an fMRI project during the following semesters in the lab.
-- *If you are earning course credit for research, you must additionally:*
- - Attend at least one of our lab meetings or journal clubs per week.
- - Present at one meeting during the semester.
- - Write a short essay on your research topic or experiences at the end of the semester.
-- For more information about undergraduate research positions, refer to the [Undergraduate research](#undergraduate-research) section below.
+- Work with your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let your mentor know.
 
 # Code of conduct
 ## General
@@ -149,9 +139,6 @@ Conducting reproducible research is more difficult than it sounds, because it re
 
 Programming workflows help with reproducibility because they take some of the human element out, and in an ideal scenario, you are left with a script or series of scripts that takes data from raw form to final product. Programming alone is not enough, though, because people can easily forget which script changes they made and when. Therefore, all projects that involve programming of any kind (so basically, all projects) must use some form of version control. I strongly recommend git in combination with GitHub (see below), unless you have a pre-existing workflow. This is a hard requirement because a) it is the only way to definitively track the evolution of methods/files over time, b) it allows for easier detection of bugs, c) it facilitates code sharing, and d) it has nice side effects for workflow organization (e.g., thinking in terms of commits, branches, issues). Points a, b, and c are directly relevant to the mission of conducting reproducible research.
 
-### Experiment pre-analysis plans
-We are currently working out a system for publishing pre-analysis plans for our studies. Stay tuned.
-
 ### Authorship
 We will follow APA guidelines with respect to authorship:
 
@@ -166,27 +153,17 @@ For projects that required significant lab resources (i.e. any study requiring a
 
 ## Slack
 
-Slack will be used as the primary means of lab communication, such as general lab announcements (`#general`), sharing links, sharing and/or discussing papers (`#papers`), and basically any message that can be sent without email. There's also a channel for keeping notes from our lab meetings (`#lab-meetings`), as well as channels for methods tips (e.g., `#fmri-methods`) and specific projects.
+Slack will be used as the primary means of lab communication, such as general lab announcements (`#general`), sharing links, sharing and/or discussing papers (`#papers`), and basically any message that can be sent without email. There are also dedicated channels for code-related issues / support, as well as for methods, tips and specific projects. Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels.
 
-Try to keep each channel on topic, so that people can subscribe only to the channels that concern them. For messages to one person or a small group of people, use the direct message channels. Because we pay per Slack user, part-time RAs will be invited as "guests" to the `#undergrads` channel; these users can also use direct messages.
-
-Full-time lab members should install Slack to their computers and/or phones. Part-time lab members should check Slack regularly. I get Slack updates on my phone and have do-not-disturb mode enabled for evening and night hours (meaning I will not get your messages then); I encourage you to do the same.
-
-## Lab wiki
-
-The lab wiki will be used as a repository for lab knowledge, particularly as it pertains to research methods and documentation of lab procedures/ management. If you learn something new, share it on the wiki. If you're trying to find out how to do something, search first on the wiki.
+Full-time lab members should install Slack to their computers and/or phones. Part-time lab members should check Slack regularly. I get Slack updates on my phone and have do-not-disturb mode enabled for evening and night hours (meaning I will not get your messages then); **I encourage you to do the same**.
 
 ## GitHub
 
 All projects that involve programming of any kind must use some form of version control. We have a GitHub organization set up with unlimited private repositories, allowing you to sync your code to the cloud and share it easily with other lab members. We will also use GitHub for sharing script examples and hosting lab toolboxes for general use.
 
-## Google Drive
-
-The MemoLab folder on Google Drive is used to store documents and files for general lab use (e.g., IRB documents, stimuli, pdfs, etc). It can also be used for some forms of non-identifiable [data](#data-management).
-
 ## Google Calendar
 
-Google Calendar is used to host a general lab calendar (MemoLab), as well as calendars for the in-lab testing rooms.
+Google Calendar is used to host a general lab calendar (BioDAG), as well as calendars for the in-lab testing rooms.
 
 
 # General policies
@@ -200,15 +177,10 @@ In addition to poking my head into the lab regularly, I will be in my office wit
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `#lab-meetings` channel on Slack. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
+Weekly lab meetings will be focused on project presentations and going over new data or methods. Lab meetings will last no longer than 1 hour. If at the end of 1 hour, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. All full-time lab members are expected to attend the weekly lab meeting. All part-time lab members (including undergraduates) are welcome to attend but attendance is not required.
 
 ### Individual meetings
 At the beginning of each semester, I will set a schedule to meet with each full-time lab member for one hour a week. If we do not have anything to discuss in a given week, that's fine- we can just say hi or cancel it.
-
-### Journal clubs & joint lab meetings
-We will alternate between having a biweekly **joint lab meeting** with the CAN lab and a biweekly **journal club**. Joint lab meeting topics will include project presentations, article discussions, and practice talks. The journal club will be focused on discussing new and/or important research articles. Some weeks, we'll discuss a single article that everyone has read; other weeks, we'll each read a paper on a specific theme and do mini-presentations on each paper. Journal club topics will be set in the `#papers` channel on Slack.
-
-As with our internal lab meetings, all full-time lab members are expected to attend, and part-time lab members are invited but not required to attend.
 
 ## Deadlines
 If you need something from me by a particular deadline, please inform me as soon as you are aware of the deadline so that I can allocate my time as efficiently as possible. I will expect at least one week's notice, but I greatly prefer two weeks' notice. I will *require* two weeks' notice for letters of recommendation. If you do not adhere to these guidelines, I may not be able to meet your deadline. Please note that this applies to reading/ commenting on abstracts, papers, and manuscripts, in addition to filling out paperwork, etc.
@@ -216,38 +188,28 @@ If you need something from me by a particular deadline, please inform me as soon
 ## Presentations
 I encourage you to seek out opportunities to present your research to the department, research community, or general public. If you are going to give a presentation (including posters and talks), please be prepared to give a practice presentation to the lab at least one week ahead of time. Not only will this help you feel comfortable with the presentation, it will give you time to implement any feedback. I care about practice presentations because a) presenting your work is a huge part of being successful in science and it's important that you practice those skills as often as possible, and b) you are going to be representing not only yourself but also the rest of the lab.
 
-There is a lab template for posters that you are free to modify as you see fit, but the header and general aesthetic should stay similar. If you have ideas for how to improve the poster template, please show the lab so we can decide whether to implement them as a group. This will help increase the visibility of our lab at conferences. (Don't believe me? Check out the various lab "walls" at the next conference you attend.) There is no template for talks, and I encourage you to use your own style of presentation as long as it is polished and clear.
-
-### A note on colors
-The PRC is red,<br>
-the PHC is blue.<br>
-All other colors<br>
-are up to you.<br>
-
 ## Lab travel
-The lab will typically pay for full-time lab members to present their work at major conferences (e.g., SFN, CNS, CEMS). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. When I set our grant budgets, I estimate €1000 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds.
+The lab will typically pay for full-time lab members to present their work at major conferences (e.g., ECCB, ISMB). In general, the work should be "new" in that it has not been presented previously, and it should be appropriate for the conference. When I set our grant budgets, I estimate €1000 per trip, so your reimbursable costs should be around that amount or less. Meal costs will be reimbursed for people who are presenting work from the lab. The lab will also pay for new grad students and postdocs to attend one conference in their first year in lab. If travel expenses are being paid off of a grant, additional restrictions may apply (talk to me). All of these guidelines, of course, depend on the availability of funds.
 
 ## Recommendation letters
 Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new PhD students or postdocs applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
 
 To request a letter of recommendation, please adhere to the deadline requirements described above. Send me your current CV and any relevant instructions for the contents of the letter. If you are applying for a grant, send me your specific aims or a short summary of the grant. In some but not all cases, I may ask you to draft a letter, which I will then revise to be consistent with my evaluation. This will ensure that I do not miss any details about your work that you think are relevant to the position you're applying for, and it will also help me complete the letter in a timely fashion.
 
-## Data management
+## Software and Data management
 ### Storing active datasets
 In general, data will be stored in one of three places:
-- **Lab folder on secure departmental server**
- - Data to store here: consent forms, keys to subject IDs (identifiable data ok)
-- **Google Drive**
- - Data to store here: behavioral data (no identifiable data!!!)
-  - All BC account holders have unlimited storage on Google Drive
- - Data folders should not be in the MemoLab Google Drive folder, but they should be shared with me and with any other relevant collaborators
-- **Linux cluster**
+- **Lab folder on secure Institute owncloud server**
+  - Data to store here: documents
+- **Institute Linux cluster**
  - Data to store here: MRI and EEG data (identifiable data ok)
 
 All three of these locations are approved on our IRB protocol. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer unless it is being synced with your Google Drive folder (de-identified data only).
 
-### Data organization
-My project folders typically look something like this:
+### Software template
+Any new software project should fork the template from the group github organization.
+
+The structure is as follows:
 - `ProjectName/Data`
   - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed) data & keep it separate from the copy that you're using in your pipeline
   - subject folders s01, s02, etc for processed data
@@ -269,30 +231,7 @@ I encourage you to use an organization scheme like this one. When you archive th
 Before you leave the lab, you will be required to document and archive any dataset that you have collected. I will review the dataset with you before you leave. [To add: information about where to archive data]
 
 ### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/), the best option for sharing MRI datasets is [OpenFMRI](https://openfmri.org/), and I don't yet know what is the best option for sharing EEG datasets.
-
-# Funding
-Funding for the lab comes from:
- - my start-up package from Boston College
- - National Institute of Mental Health (grant number **R00MH103401**)
-
-## Allocation of expenses
-I will oversee all aspects of the financial management of our funding sources. However, it is important to me to be transparent about where research money comes from and how it's spent. I have included some notes below but please do not hesitate to ask if you want to know more details.
-- **Start-up:** I do not think I'm technically allowed to disclose the terms of my job offer. However, we have money and it's enough to keep us going for awhile. Start-up funds are flexible in that they can be used for any justifiable purpose.
-- **R00:** The R00 has a budget of approximately $250,000 per year for 3 years. After indirects are taken out (i.e., money that BC charges to keep the lights on), this amounts to approximately $170,000 per year. All expenses that are consistent with the R00 budget/ aims should be charged to the R00 grant. Because NIH funds are more restricted than start-up funds and because they expire more quickly, we should use them whenever allowable and save start-up funds for other purposes.
-
-## NIH funding notes
- All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
-
-# Undergraduate research
-Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me or the lab manager because we want all students to be able to pursue their research interests.
-
-In addition to volunteering in lab, other research opportunities include:
- 1. If you want to work in lab and earn course credit, you can sign up for independent study or undergraduate research ([link to info](https://www.bc.edu/bc-web/schools/mcas/departments/psychology/undergraduate/research-opportunities.html)). We will have to fill out a syllabus contract at the beginning of the semester. Typically you would be in lab for at least 10 hours a week, and you would also be required to attend lab meetings, present at one of them, and write a short statement about your experiences at the end of the semester. Note that you can enroll in research courses multiple times.
- 2. If you want to work in lab and earn money, you can apply for an [undergraduate research fellowship](https://www.bc.edu/schools/cas/services/faculty/facforms/researchfellows/reschfell.html). Candidates are expected to be academically strong (typically, GPA of 3.4 or above), and you would be expected to work 12-15 hours per week. Because these fellowships are intended to support your academic development, URF students will be strongly encouraged to participate in lab meetings. Note that if you have another BC job, you're not allowed to work more than 20 hours per week during the academic year, and that includes the URF hours (which will also count toward work-study).
- 3. If you want to work in lab, earn money, and are eligible for work-study, there may be other paid research opportunities available.
-
-If you're an undergraduate student and you want to pursue any of these options, talk to me or the lab manager.
+Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the [Open Science Framework](https://osf.io/).
 
 # FAQ and who to ask
 
