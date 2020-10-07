@@ -1,18 +1,24 @@
-# Test files
+*.gem
+.bundle
+.sass-cache
+Gemfile.lock
+
+# npm
 node_modules
 npm-debug.log
 
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
 # Jekyll
 _site
+_sass
 .jekyll-metadata
 .sass-cache
 
 # Temporary files
 tmp
-
-# Folder view configuration files
-.DS_Store
-Desktop.ini
 
 # Thumbnail cache files
 ._*
