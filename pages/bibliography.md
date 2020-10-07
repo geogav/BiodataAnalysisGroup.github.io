@@ -1,6 +1,6 @@
 ---
-title: Bibliography
-permalink: /research/publications/
+title: Publications
+permalink: /publications/
 ---
 
 <!-- # Bibliography -->

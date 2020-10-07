@@ -11,6 +11,7 @@
 - text: Publications
   href: /publications/
 - text: Research
+  href: /activities/
   menu:  # Dropdown menu (one level deep only)
   - text: Projects
     href: /projects/

@@ -13,7 +13,6 @@ Desktop.ini
 
 # Jekyll
 _site
-_sass
 .jekyll-metadata
 .sass-cache
 

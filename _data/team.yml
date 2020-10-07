@@ -1,24 +1,33 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
+- name: Dr. Fotis Psomopoulos
+  role: Principal Investigator C' # Will appear next to name
   image: assets/img/team/fpsom.jpg # Can be external link
+  orcid: 0000-0002-0222-4273
+  email: fpsom@certh.gr
+  github: fpsom
+  twitter: fopsom
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  email: your.email@example.com
-  github: github_name
-  twitter: twitter_name
+    Dr Fotis E. Psomopoulos works as a Principal Investigator C' (Assistant Professor level) at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH), with a primary focus on bioinformatics workflows and computational analysis of large bio-datasets. He has received his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki (AUTH), in 2010 and 2004 respectively. In 2014 he has been awarded with a post-doctoral fellowship scholarship by the AUTh Research Committee. He has worked as a teaching assistant and academic fellow at the Aristotle University of Thessaloniki, as a Visiting Professor at Quest University (Vancouver, Canada) and as an Adjunct Lecturer at the University of Western Macedonia. Moreover, he has participated as a researcher and project manager in several European (RAPP, Microme, ASSIST) and national research projects.
 
-- name: Turanga Leela
-  role: Captain
+
+- name: Dr. Maria Tsagiopoulou
+  role: Postdoctoral Researcher
   image: assets/img/team/mariatsayo.jpg
+  orcid: 0000-0000-0000-0000
+  email: m.tsagiopoulou@certh.gr
+  github: MariaTsayo
+  twitter: tsayo7
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship).
+    Maria Tsagiopoulou, PhD, is a postdoctoral INAB/CERTH. After her BSc in Molecular biology and genetics in 2014, she received the PhD degree from the Biology department of National and Kapodistrian University of Athens in collaboration with the INAB/CERTH in 2019, working under the supervision of Dr. Kostas Stamatopoulos. Her PhD thesis was entitled: «Epigenetic mechanisms in chronic lymphocytic leukemia» and was granted by the State Scholarships Foundation (IKY). Her interests extend to the development of new bioinformatics tools using machine learning for the integration of high-throughput data, particularly DNA methylation arrays, WES and RNA-seq data, and also link them with relevant publicly available data. Moreover, her research interests also include the better use of publicly available NGS data, in support of open science and reproducibility of scientific results. She was awarded with the Short-term collaboration award of the European Hematology Association in order to visit IDIBAPS, Barcelona and work with the group of Dr. Martín-Subero, a leading expert in the field of cancer epigenomics. Also, she participated on bioinformatic courses to assist in strengthening her bioinformatics expertise such as The Volos Summer School in Human Genetics of Wellcome Sanger Institute, Bioinformatics and genome analyses, EMBO Courses & workshops and Analysis of High-Throughput Sequencing Data of EMBL-EBI. More recently, she was awarded as an Early Career on Research
+    Data Alliance (RDA) Europe. She is involved in several data-related training activities, has been co-teaching at the CODATA-RDA Research Data Science Advanced Workshops on Advanced Bioinformatics workshop and is an Instructor of the Carpentries.
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
+
+- name: Nikos Pechlivanis
+  role: PhD student
   image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+  orcid: 0000-0000-0000-0000
+  email: nikosp41@certh.gr
+  github: MariaTsayo
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Mr. Nikolaos Pechlivanis works as a Bioinformatics engineer at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas. He holds an engineering diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTH) where he completed his thesis entitle “Genomic data integration for facilitating machine learning applications”. Currently he is pursuing a PhD in the field of Computation Biology and Bioinformatics under the supervision of Dr. Fotis Psomopoulos. His research focuses on studying machine learning algorithms and computational techniques with respect to their corresponding applications on genomic and meta-genomic data. In addition to his research, Nikolas supports open source/science principles, in support of reusability and accessibility of scientific results. Moreover, he is interested in web development mostly working on server-side scripting by applying data wrangling and analysis techniques.
