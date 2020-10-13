@@ -9,9 +9,13 @@ permalink: /activities/
 
 ## Machine Learning
 
-<img src="/assets/img/activities/Machine_Learning_Logo.png" alt="Machine Learning" style="width:100px;"/>
+![Machine Learning](/assets/img/activities/Machine_Learning_Logo.png){: .rounded .float-left width="100px"}
 
 Machine learning approaches are commonly used in Biology. More specific, these approaches is necessary in the downstream analysis of the bio-data in order to extract the significant information.
+
+<br/>
+
+{: .clearfix}
 
 ### Approaches
 

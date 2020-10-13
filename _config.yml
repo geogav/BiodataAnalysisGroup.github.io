@@ -39,8 +39,6 @@ exclude:
   - package.json
   - petridish.gemspec
 
-google_analytics_id: UA-17296390-13
-
 scholar:
   style: apa
   locale: en
