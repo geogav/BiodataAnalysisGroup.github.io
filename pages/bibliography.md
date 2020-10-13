@@ -33,38 +33,6 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @article[year=2019] %}
 
-### 2018
-
-{% bibliography --query @article[year=2018] %}
-
-### 2017
-
-{% bibliography --query @article[year=2017] %}
-
-### 2016
-
-{% bibliography --query @article[year=2016] %}
-
-### 2015
-
-{% bibliography --query @article[year=2015] %}
-
-### 2013
-
-{% bibliography --query @article[year=2013] %}
-
-### 2012
-
-{% bibliography --query @article[year=2012] %}
-
-### 2010
-
-{% bibliography --query @article[year=2010] %}
-
-### 2009
-
-{% bibliography --query @article[year=2009] %}
-
 <br/>
 
 ## Conferences and Announcements
@@ -75,65 +43,13 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @inproceedings[year=2020] %} -->
 
+### 2020
+
+{% bibliography --query @inproceedings[year=2020] %}
+
 ### 2019
 
 {% bibliography --query @inproceedings[year=2019] %}
-
-### 2018
-
-{% bibliography --query @inproceedings[year=2018] %}
-
-### 2017
-
-{% bibliography --query @inproceedings[year=2017] %}
-
-### 2016
-
-{% bibliography --query @inproceedings[year=2016] %}
-
-### 2015
-
-{% bibliography --query @inproceedings[year=2015] %}
-
-### 2014
-
-{% bibliography --query @inproceedings[year=2014] %}
-
-### 2012
-
-{% bibliography --query @inproceedings[year=2012] %}
-
-### 2011
-
-{% bibliography --query @inproceedings[year=2011] %}
-
-### 2010
-
-{% bibliography --query @inproceedings[year=2010] %}
-
-### 2009
-
-{% bibliography --query @inproceedings[year=2009] %}
-
-### 2008
-
-{% bibliography --query @inproceedings[year=2008] %}
-
-### 2007
-
-{% bibliography --query @inproceedings[year=2007] %}
-
-### 2006
-
-{% bibliography --query @inproceedings[year=2006] %}
-
-### 2005
-
-{% bibliography --query @inproceedings[year=2005] %}
-
-### 2004
-
-{% bibliography --query @inproceedings[year=2004] %}
 
 
 <br/>

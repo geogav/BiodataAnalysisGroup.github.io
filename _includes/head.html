@@ -7,7 +7,7 @@
   {% else %}
     <title>{{ page.title }} - {{ site.title }}</title>
   {% endif %}
-  
+
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="{{ site.author }}">
 
@@ -22,4 +22,5 @@
 
   <!-- Feeds -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - RSS feed" href="{{ '/feed.xml' | absolute_url }}" >
+  {% include analytics.html %}
 </head>

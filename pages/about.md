@@ -56,21 +56,3 @@ Here is a list of webinars and videos our group has participated over the years.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/l6NwYOMLkzk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
-
-### FOSTER Open Science Training Handbook book sprint
-
-- _Title_: **Writing the Open Science Training Handbook - an author's perspective by Fotis Psomopoulos, EC**
-- _Date_: 2018 Jun 25
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_uNxt3rUlSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-
-### European Grid Infrastructure (EGI)
-
-- _Title_: **EGI Champion on Bioinformatics - Fotis Psomopoulos**
-- _Date_: 2013 Apr 11
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/c5kz-aesw6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
