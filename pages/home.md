@@ -2,7 +2,7 @@
 layout: home
 title: Biodata Analysis Group
 description: Doing a little bit of bioinformatics, a dash of machine learning, and a lot of Open Science
-background: /assets/img/groupLogo/cropped-background.jpg
+background: /assets/img/groupLogo/cropped-background_with_logos.png
 permalink: /
 ---
 

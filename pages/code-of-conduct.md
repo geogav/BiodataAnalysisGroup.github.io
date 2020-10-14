@@ -37,7 +37,7 @@ permalink: /coc/
 
 # Introduction
 
-Welcome to the Biodata Analysis Group. This manual was developed by me, [Fotis Psomopoulos](https://fpsom.github.io/). It is intended to represent my vision for how the lab should function and to complement existing [CERTH](https://www.certh.gr/) and [INAB](https://inab.certh.gr/) policies (which take precedence). **Upon joining the lab, all lab members are required to read the lab manual and sign a [form](https://docs.google.com/document/d/1dVIsL28tz7GCh6loME4LX2yn1bhKC0BKpLCwAt5I3Fs/edit?usp=sharing) indicating that they have done so.** I expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell me.
+Welcome to the Biodata Analysis Group. This manual was developed by me, [Fotis Psomopoulos](https://fpsom.github.io/). It is intended to represent my vision for how the lab should function and to complement existing [CERTH](https://www.certh.gr/) and [INAB](https://inab.certh.gr/) policies (which take precedence). **Upon joining the lab, all lab members are required to read the lab manual and sign a [form](/assets/docs/Group-CoC-Signature-Form.pdf) indicating that they have done so.** I expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell me.
 
 The BioDAG manual was inspired by other [similar](http://jpeelle.net/peellelab_manual.pdf) [works](http://ivory.idyll.org/lab/coc.html). In some places, I have adapted or reproduced content from the [Peelle lab manual](https://github.com/jpeelle/peellelab_manual), the [Maureen Ritchey Memory Modulation Lab manual](https://docs.google.com/document/d/1L1DhF3gKZKVGb_MDEmdqvBwm5thWiqyMy8AS_kzJnSM/edit) and the [The Wright Lab CoC](https://paleantology.com/lab-conduct/). This work is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/).
 
@@ -204,7 +204,7 @@ In general, data will be stored in one of three places:
 - **Institute Linux cluster**
  - Data to store here: MRI and EEG data (identifiable data ok)
 
-All three of these locations are approved on our IRB protocol. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer unless it is being synced with your Google Drive folder (de-identified data only).
+Both of these locations are approved by the Institute ISO standard. They are all backed up regularly, which make them particularly appealing options for data storage. In general, you should not store data locally on your computer unless it is being synced with your owncloud folder (de-identified data only).
 
 ### Software template
 Any new software project should fork the template from the group github organization.
