@@ -1,4 +1,5 @@
 ---
+layout: base
 title: Publications
 permalink: /publications/
 background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=format&w=2000

@@ -39,17 +39,24 @@ exclude:
   - package.json
   - petridish.gemspec
 
+
+# Original file: https://github.com/citation-style-language/styles-distribution
+# Information: https://www.mghassany.com/blog/From-Wordpress-to-Jekyll/
 scholar:
-  style: apa
+  style: assets/bibliography/ieee.csl
   locale: en
 
   sort_by: none
-  order: ascending
+  order: descending
   #group_by: year
+  bibliography_list_tag: ul
 
   source: _bibliography
   bibliography: references.bib
-  bibliography_template: "{{reference}}"
+  # bibliography_template: "{{reference}}"
+  bibliography_template: bib
+
+  use_raw_bibtex_entry: true
 
   replace_strings: true
   join_strings:    true
