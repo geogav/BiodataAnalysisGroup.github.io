@@ -28,7 +28,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 ### 2021
 
-{% bibliography --query @article[year=2020] %}
+{% bibliography --query @article[year=2021] %}
 
 ### 2020
 
