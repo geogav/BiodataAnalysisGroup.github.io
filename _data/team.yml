@@ -24,7 +24,7 @@
 
 - name: Nikos Pechlivanis
   role: PhD student
-  image: assets/img/team/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/img/team/nikopech.jpg
   orcid: 0000-0003-2502-612X
   email: nikosp41@certh.gr
   github: nikopech
@@ -40,3 +40,13 @@
   github: tatsistog
   description: >
     Anastasios Togkousidis is  working as a research assistant at INAB/CERTH. He has recently completed the five-year undergraduate program at the Department of Electrical and Computer Engineering at Aristotle University of Thessaloniki (July 2020) and received his Diploma with excellent degree. His Diploma Thesis was titled: "Design and Implementation of a k-mer based feature selection method for machine learning applications in Bioinformatics" and was accomplished under the supervision of Prof. Pericles A. Mitkas and Dr. Fotis E. Psomopoulos. He has also worked as an intern student at INAB/CERTH for the period of March - April 2020. His research interests focus on the application of algorithmic techniques for the development of bioinformatics tools, related with the detection of patterns within sequences, features extraction and machine learning applications, as well as the innovation of novel DNA encoding techniques with promising potential. Finally, he has participated in Virtual Biohackathon 2020 as a member of Machine Learning group.
+
+
+- name: Maria Christina Maniou
+  role: Research assistant
+  image: assets/img/team/mcmaniou.jpg
+  orcid: 0000-0002-5029-206X
+  email: mcmaniou@yahoo.gr
+  github: mcmaniou
+  description: >
+    Maria Christina Maniou is a research assistant at Institute of Applied Biosciences in Centre for Research and Technology Hellas (INAB/CERTH). She received an engineering diploma of Electrical and Computer Engineering (Integrated Master Level 7) from the Aristotle University of Thessaloniki, in 2020. Her Diploma Thesis was titled: “Development of an algorithm for correlation of Chromosomal Locations with functional biological processes using large-scale data analysis”. During her studies, she completed a three-month internship at INAB/CERTH, as well as, a three-month internship at Institute of Applied Computer Science in Kiel University of Applied Sciences.  Her research interests focus on data science and analytics and their respective application on genomic, epigenomic and transcriptomic data. Moreover, her interests include data visualization, as well as, the development of software tools and pipelines for implementing new bioinformatic approaches.
