@@ -6,8 +6,8 @@
   menu:  # Dropdown menu (one level deep only)
   - text: Team
     href: /team/
-  - text: Code of Conduct
-    href: /coc/
+#  - text: Code of Conduct
+#    href: /coc/
 - text: Publications
   href: /publications/
 - text: Research
