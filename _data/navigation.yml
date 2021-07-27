@@ -6,6 +6,8 @@
   menu:  # Dropdown menu (one level deep only)
   - text: Team
     href: /team/
+  # - text: Past members
+  #   href: /past-members/
 #  - text: Code of Conduct
 #    href: /coc/
 - text: Publications
