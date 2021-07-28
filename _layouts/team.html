@@ -90,3 +90,33 @@ description: Template for team page
     </div>
   </div>
 {% endfor %}
+
+<h4>Internships</h4>
+
+{% for member in site.data.interns %}
+  <div class="media team-member">
+    <!-- <img class="mr-3" src="{{ member.image | relative_url }}"> -->
+    <div class="media-body">
+      <h5 id="{{ member.name | strip | url_encode }}">
+        {{ member.name }}
+      </h5>
+
+      <ul class="list-inline">
+        {% if member.uni %}
+        <li class="list-inline-item">
+          {{ member.uni }}
+        </li>
+        {% endif %}
+
+
+        {% if member.period %}
+        <li class="list-inline-item">Period: {{ member.period }}</li>
+        {% endif %}
+      </ul>
+
+
+
+    </div>
+  </div>
+{% endfor %}
+
