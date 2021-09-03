@@ -39,6 +39,7 @@ exclude:
   - package.json
   - petridish.gemspec
 
+exclude: [vendor]
 
 # Original file: https://github.com/citation-style-language/styles-distribution
 # Information: https://www.mghassany.com/blog/From-Wordpress-to-Jekyll/
