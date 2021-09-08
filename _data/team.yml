@@ -36,3 +36,12 @@
   github: iofeidis
   description: >
     Iasonas Ofeidis works as a research assistant at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas (INAB/CERTH). He received an engineering diploma in Electrical & Computer Engineering from the Aristotle University of Thessaloniki in 2020. His Diploma Thesis was titled: "Data Analysis on Keystroke Dynamics for Emotion Recognition using Machine Learning Models". During his studies, he participated in the Erasmus student programme, where he took courses in the Information Techonology Department at the Brno University of Technology. His research interests focus on Artificial Intelligence/Machine Learning and software development, as well as their applications on bioinformatics tools and pipelines.
+
+- name: Dr. Konstantinos Kyritsis
+  role: Postdoctoral researcher
+  image: assets/img/team/kkyritsis.jpg
+  orcid: 0000-0001-8035-341X
+  email: konstantinoskyritsis@hotmail.com
+  github: kostaskyritsis
+  description: >
+    Konstantinos Kyritsis, PhD, is working as a postdoctoral researcher at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas (INAB/CERTH). He received his BSc in Biology, and his MSc in “Biotechnology and Molecular Diagnostics” from the Aristotle University of Thessaloniki (AUTH). During his studies, he completed a three-month Erasmus+ internship at the Novo Nordisk Foundation Center for Protein Research, University of Copenhagen. He received a scholarship for his doctorate from the Hellenic Foundation for Research and Innovation (HFRI) in 2017, and completed his thesis, entitled “Systematic Analysis of the Expression of Ribosomal Protein Genes”, at the School of Pharmacy AUTH, in 2021. His research interests are currently focused on studying molecular mechanisms and unveiling patterns of functional significance by applying methods of statistical analysis as well as machine learning algorithms to Next-generation sequencing (NGS) data. Furthermore, his interests include developing bioinformatic tools and pipelines for integrating and visualizing heterogenous bio-data.
