@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## GenOptics
 
-<img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:100px;"/>
+<img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:200px;"/>
 
 [**GenOptics**](https://genoptics.github.io/) (_Large Scale bio-data Visual analytics platform_)
 - **Duration**: 2020 - 2023
