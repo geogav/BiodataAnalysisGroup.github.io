@@ -1,3 +1,10 @@
+- name: Serovpe Amprachamian
+  uni: Department of Electrical and Computer Engineering, Aristotle University of Thessaloniki
+  period: 12/7/2021 - 11/9/2021
+  
+- name: Konstantinos Gkagkaridis
+  uni: Department of Biochemistry and Biotechnology, University of Thessaly
+  period: 12/7/2021 - 11/9/2021
 
 - name: Anastasia Krapi
   uni: Department of Computer Science and Biomedical Informatics, University of Thessaly
@@ -6,7 +13,3 @@
 - name: Ioanna Sasilioglou
   uni: Department of Computer Science and Biomedical Informatics, University of Thessaly
   period: 01/07/2021 - 31/08/2021 
-
-- name: Konstantinos Gkagkaridis
-  uni: Department of Biochemistry and Biotechnology, University of Thessaly
-  period: 12/7/2021 - 11/9/2021
