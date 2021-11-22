@@ -37,19 +37,11 @@
   description: >
     Maria Christina Maniou is a research assistant at Institute of Applied Biosciences in Centre for Research and Technology Hellas (INAB/CERTH). She received an engineering diploma of Electrical and Computer Engineering (Integrated Master Level 7) from the Aristotle University of Thessaloniki, in 2020. Her Diploma Thesis was titled: “Development of an algorithm for correlation of Chromosomal Locations with functional biological processes using large-scale data analysis”. During her studies, she completed a three-month internship at INAB/CERTH, as well as, a three-month internship at Institute of Applied Computer Science in Kiel University of Applied Sciences.  Her research interests focus on data science and analytics and their respective application on genomic, epigenomic and transcriptomic data. Moreover, her interests include data visualization, as well as, the development of software tools and pipelines for implementing new bioinformatic approaches.
 
-- name: Iasonas Ofeidis
-  role: Research assistant
-  image: assets/img/team/iason.jpg
-  orcid: 0000-0001-8206-8321
-  email: jasonof75@gmail.com
-  github: iofeidis
-  description: >
-    Iasonas Ofeidis works as a research assistant at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas (INAB/CERTH). He received an engineering diploma in Electrical & Computer Engineering from the Aristotle University of Thessaloniki in 2020. His Diploma Thesis was titled: "Data Analysis on Keystroke Dynamics for Emotion Recognition using Machine Learning Models". During his studies, he participated in the Erasmus student programme, where he took courses in the Information Techonology Department at the Brno University of Technology. His research interests focus on Artificial Intelligence/Machine Learning and software development, as well as their applications on bioinformatics tools and pipelines.
-
 - name: Styliani-Christina Fragkouli
   role: Research Assistant
   image: assets/img/team/sfragkoul.jpg
   orcid: 0000-0003-4067-7123
   email: sfragkoul@certh.gr
   github: sfragkoul
-  description: > Styliani-Christina Fragkouli works as a research assistant at the Institute of Applied Biosciences (INAB) in the Center for Research and Technology Hellas (CERTH). She obtained her BSc in Physics in 2019 and MSc in Digital Media and Computational Intelligence in 2021, both from the University of Thessaloniki (AUTh). Her research interests include data analysis with machine learning algorithms. Furthermore, given her Physics background, she is involved in the research of deep learning applications on gravitational waves and Astrophysics.
+  description: > 
+    Styliani-Christina Fragkouli works as a research assistant at the Institute of Applied Biosciences (INAB) in the Center for Research and Technology Hellas (CERTH). She obtained her BSc in Physics in 2019 and MSc in Digital Media and Computational Intelligence in 2021, both from the University of Thessaloniki (AUTh). Her research interests include data analysis with machine learning algorithms. Furthermore, given her Physics background, she is involved in the research of deep learning applications on gravitational waves and Astrophysics.

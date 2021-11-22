@@ -1,4 +1,3 @@
-
 - name: Dr. Maria Tsagiopoulou
   role: Postdoctoral Researcher
   image: assets/img/team/mariatsayo.jpg
@@ -8,6 +7,15 @@
   twitter: tsayo7
   description: >
     Maria Tsagiopoulou, PhD, was working as a postdoctoral researcher at INAB/CERTH. Her current position is as a postdoctoral researcher at the Centro Nacional de Análisis Genómico (CNAG-CRG).
+
+- name: Iasonas Ofeidis
+  role: Research assistant
+  image: assets/img/team/iason.jpg
+  orcid: 0000-0001-8206-8321
+  email: jasonof75@gmail.com
+  github: iofeidis
+  description: >
+    Iasonas Ofeidis was working as a research assistant at INAB/CERTH. His current position is at the Yale Institute of Network Science.
 
 
 - name: Anastasios Togkousidis
