@@ -72,3 +72,13 @@
   github: Sofokli5
   description: >
     Sofoklis Keisaris works as a research assistant at the Institute of Applied Biosciences(INAB) in the Centre for Research and Technology Hellas(CERTH). He received his BSc in Biology from the Aristotle University of Thessaloniki(AUTH) with aspects on Ecology and Conservation Biology. After having cooperated with Hellenic Center of Marine Research (CERTH), he found interest in Bioinformatics and Computational Biology. He is keen on developing bioinformatics tools and pipelines for a wide variety of biological data.
+
+- name: George Gavriilidis
+  role: Postdoctoral researcher
+  image:
+  orcid: 0000-0003-2575-4354
+  email: ggeorav@certh.gr
+  github: geogav
+  description: >
+    George Gavriilidis (Pharmacologist PhD) works as a postdoctoral researcher in the Institute of Applied Biosciences (INAB/CERTH). He received his BSc in Pharmacy from the School of Pharmacy in the Aristotle University of Thessaloniki (AUTH) in Greece (2004-2009). Following, he received his MSc in Molecular Pharmacology and Therapeutics by the same school where he had the change to generate a human biosimilar of KITLG protein (Stem Cell Factor) from E. Coli strains and then assess its biological activity in KIT+ cancer cell lines (2010-2013). Next, he pursued a joined PhD program in Cancer Pharmacology (School of Pharmacy-AUTH/INAB-CERTH) where he studied the implication of KITLG in  Chronic Lymphocytic Leukemia (CLL)  microenvironment by emphasizing on stimulations on CLL cells from immune signals, hypoxia and the bone marrow mesenchymal stroma (2014-2020). Furthermore, for 3 years, he collaborated as a pharmacologist with the eHealth lab of INAB for the PVClinical project which aimed at developing Artificial Intelligence (AI) approaches in drug safety through the integration of pertinent data from FDA, the OHDSI consortium, the scientific literature (PubMed) and social media (Twitter) (2019-2021). Since the beggining of 2022, he is part of the Biodata Analysis Group focusing on single cell RNA-seq (scRNA-seq) analysis through Machine Learning approaches and the integration of relevant Systems Pharmacology/Biology strategies (pathway/kinase/transcription factor enrichment analysis, gene co-expression networks, networks for cell-cell interactions).
+      
